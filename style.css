@@ -1,0 +1,39 @@
+.header{
+	background:grey;
+	padding-bottom:20px;
+	
+}
+.header img {
+	width:100%;
+	height:auto;
+	
+}
+
+.main {
+	background: blue;
+}
+
+.body{
+	/*background:lightgrey;*/
+	margin-top=50px;
+}
+.header-nav a{
+	margin: 0px 20px;
+	padding-bottom:20px;
+}
+.alignleft {
+	float:left;
+	margin-right:15px;
+}
+.alignright{
+	float: right;
+}
+.h22{
+	margin-bottom:10px;
+}
+
+.footer{
+	background:grey;
+	padding: 10px 20px;
+	margin-top=200px;
+}
